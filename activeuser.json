@@ -12,5 +12,12 @@
         "password": "pass456",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "791ca087a1f449a2",
+        "username": "PROFESSOR-HACKER",
+        "password": "HELL.HELL",
+        "expirydate": "15-12-2026",
+        "Allowoffline": false
     }
 ]
