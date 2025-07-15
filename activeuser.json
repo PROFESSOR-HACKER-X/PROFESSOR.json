@@ -19,5 +19,12 @@
         "password": "HELL.HELL",
         "expirydate": "15-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "da1bc0a9b46a6a66",
+        "username": "HK_TECH_GOD",
+        "password": "PARI",
+        "expirydate": "15-12-2026",
+        "Allowoffline": false
     }
 ]
