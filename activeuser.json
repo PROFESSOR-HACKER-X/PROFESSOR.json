@@ -26,5 +26,12 @@
         "password": "PARI",
         "expirydate": "15-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d0fcebda107e9e2a",
+        "username": "CODE-BREAKER",
+        "password": "PARI",
+        "expirydate": "15-12-2026",
+        "Allowoffline": false
     }
 ]
