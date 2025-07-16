@@ -40,5 +40,12 @@
         "password": "PARI",
         "expirydate": "30-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ebf961c981f7007d",
+        "username": "PROFESSOR-HACKER",
+        "password": "PARI",
+        "expirydate": "15-08-202",
+        "Allowoffline": false
     }
 ]
