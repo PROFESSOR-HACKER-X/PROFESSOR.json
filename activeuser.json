@@ -75,5 +75,12 @@
         "password": "Mozan3631",
         "expirydate": "18-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9fdde8f18ff2ba6e",
+        "username": "HOWLER",
+        "password": "NIGHT-HOWLER",
+        "expirydate": "18-08-2025",
+        "Allowoffline": false
     }
 ]
