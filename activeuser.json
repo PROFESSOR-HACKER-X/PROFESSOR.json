@@ -117,5 +117,19 @@
         "password": "PARI",
         "expirydate": "21-07-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0a4734a1485aff16",
+        "username": "PARI",
+        "password": "PARI",
+        "expirydate": "21-07-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "998dc5605555d91a",
+        "username": "PARI",
+        "password": "PARI",
+        "expirydate": "21-07-2025",
+        "Allowoffline": false
     }
 ]
