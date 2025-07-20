@@ -82,5 +82,40 @@
         "password": "NIGHT-HOWLER",
         "expirydate": "18-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0059b34bb4ec5660",
+        "username": "PARI",
+        "password": "PARI",
+        "expirydate": "21-07-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "ef4615a0c176c19c",
+        "username": "PARI",
+        "password": "PARI",
+        "expirydate": "21-07-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d11ae4b84e08064a",
+        "username": "PARI",
+        "password": "PARI",
+        "expirydate": "21-07-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "998dc5605555d91a",
+        "username": "PARI",
+        "password": "PARI",
+        "expirydate": "21-07-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "b6b36c444387e916",
+        "username": "PARI",
+        "password": "PARI",
+        "expirydate": "21-07-2025",
+        "Allowoffline": false
     }
 ]
