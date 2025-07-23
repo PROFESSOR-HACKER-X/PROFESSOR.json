@@ -12,5 +12,19 @@
         "password": "PARI",
         "expirydate": "30-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f6db8d8ff140850e",
+        "username": "PARI",
+        "password": "PARI",
+        "expirydate": "30-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "ff292eccd891e2fe",
+        "username": "Mozan",
+        "password": "Mozan3631",
+        "expirydate": "20-08-2025",
+        "Allowoffline": false
     }
 ]
