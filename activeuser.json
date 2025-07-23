@@ -26,5 +26,12 @@
         "password": "Mozan3631",
         "expirydate": "20-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "791ca087a1f449a2",
+        "username": "PARI",
+        "password": "PARI",
+        "expirydate": "20-08-2026",
+        "Allowoffline": false
     }
 ]
